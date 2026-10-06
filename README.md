@@ -8,9 +8,9 @@ An end-to-end Power BI analytics project focused on **Star Schema Architecture**
 ## 📊 Dashboard & Data Model Showcase
 
 ### 1. Executive Sales Analytics Dashboard
-Features soft container cards, dark-green executive theme palette, KPI summary metrics, seasonality line charts, and dynamic cross-filtering.
+Features soft container cards, a modern dark-blue and gray executive theme palette with vibrant orange accent highlights, KPI summary metrics, seasonality line charts, and dynamic cross-filtering.
 
-![Sales Analytics Dashboard](https://github.com/HagerSalahRamadan/PowerBI-StarSchema-VertiPaq-Optimization/blob/main/Sales%20Dashboard.png)
+![Sales Analytics Dashboard](https://github.com/HagerSalahRamadan/PowerBI-StarSchema-VertiPaq-Optimization/blob/main/Dashboard.png)
 
 ### 2. Optimized Star Schema Data Model
 A pure Star Schema design linking `FactSales` to discrete dimension tables (`DimCustomer`, `DimBranch`, `DimProduct`, `DimCustomerBranch`, and `DimDate`).
